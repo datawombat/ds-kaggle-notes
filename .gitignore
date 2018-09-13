@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints
+__pycache__
+tmp
+/J. Deep Learning/resources/lfw-deepfunneled.tgz
+/J. Deep Learning/resources/lfw.tgz
