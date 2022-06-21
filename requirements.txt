@@ -67,7 +67,7 @@ nbpresent==3.0.0
 notebook==5.5.0
 numba==0.39.0
 numexpr==2.6.6
-numpy==1.14.5
+numpy==1.22.0
 opencv-python==3.4.2.17
 packaging==17.1
 palettable==3.1.1
