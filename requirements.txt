@@ -57,7 +57,7 @@ Markdown==2.6.11
 MarkupSafe==1.0
 matplotlib==2.2.2
 missingno==0.4.1
-mistune==0.8.3
+mistune==2.0.3
 mizani==0.4.6
 mlxtend==0.13.0
 munch==2.3.2
