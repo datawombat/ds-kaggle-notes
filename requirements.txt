@@ -61,7 +61,7 @@ mistune==0.8.3
 mizani==0.4.6
 mlxtend==0.13.0
 munch==2.3.2
-nbconvert==5.3.1
+nbconvert==6.5.1
 nbformat==4.4.0
 nbpresent==3.0.0
 notebook==5.5.0
